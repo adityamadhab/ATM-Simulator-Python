@@ -7,6 +7,7 @@ We import the necessary modules from the 'tkinter' library. 'tkinter' is used to
 'messagebox' is used to display pop-up messages to the user, and 'simpledialog' is used for user input dialogs.
 
 2. Class Definitions:
+
 <b>ATMApp</b>: This class represents the main application. It's responsible for creating the GUI and handling user interactions. It contains methods for logging in, creating accounts, depositing, withdrawing, displaying balances, and managing the GUI components.
 
 <b>Account</b>: This class represents a bank account. It has attributes such as the account number, PIN (Personal Identification Number), and balance. Account objects are created to store account information.
